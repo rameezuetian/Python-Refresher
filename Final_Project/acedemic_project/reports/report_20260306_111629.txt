@@ -1,0 +1,9 @@
+
+ACADEMIC PORTAL REPORT
+----------------------
+
+Total Students : 4
+Failed Students: 2
+Total Fine     : 85
+
+Generated At: 2026-03-06 11:16:29.749156
